@@ -14,14 +14,15 @@ namespace TestTask.Services.Implementations
         }
         public async Task<User?> GetUser()
         {
-            var data = await _context.Users
-                            .AsNoTracking()
-                            .Where(p => p.Orders.Any(p => p.CreatedAt.Year == 2003))
-                            .Select(p=> new { User = p, OrdersSummary=p.Orders.Count })
-                            .OrderByDescending(p=> p.OrdersSummary)
-                            .FirstOrDefaultAsync();
+            var data = await _context.Orders
+                             .AsNoTracking()
+                             .Where(p => p.CreatedAt.Year == 2003)
+                             .Select(p => new { UserID = p.UserId, Summary = p.Price * p.Quantity })
+                             .OrderByDescending(p => p.Summary)
+                             .FirstOrDefaultAsync();
 
-            var user =data?.User;
+
+            var user =await _context.Users.FindAsync(data?.UserID);
 
             return user;
         }

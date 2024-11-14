@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{41FC1D59-8136-4B25-98CE-CF1079F71D0E}|TestTask\\TestTask.csproj|solutionrelative:testtask\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41FC1D59-8136-4B25-98CE-CF1079F71D0E}|TestTask\\TestTask.csproj|c:\\users\\\u044E\u0440\u0438\u0439\\desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 ifortex\\testtask\\testtask\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41FC1D59-8136-4B25-98CE-CF1079F71D0E}|TestTask\\TestTask.csproj|solutionrelative:testtask\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41FC1D59-8136-4B25-98CE-CF1079F71D0E}|TestTask\\TestTask.csproj|c:\\users\\\u044E\u0440\u0438\u0439\\desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 ifortex\\testtask\\testtask\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41FC1D59-8136-4B25-98CE-CF1079F71D0E}|TestTask\\TestTask.csproj|solutionrelative:testtask\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41FC1D59-8136-4B25-98CE-CF1079F71D0E}|TestTask\\TestTask.csproj|c:\\users\\\u044E\u0440\u0438\u0439\\desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 ifortex\\testtask\\testtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41FC1D59-8136-4B25-98CE-CF1079F71D0E}|TestTask\\TestTask.csproj|solutionrelative:testtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,34 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\Desktop\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 IFortex\\TestTask\\TestTask\\Program.cs",
-              "RelativeDocumentMoniker": "TestTask\\Program.cs",
-              "ToolTip": "C:\\Users\\\u042E\u0440\u0438\u0439\\Desktop\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 IFortex\\TestTask\\TestTask\\Program.cs",
-              "RelativeToolTip": "TestTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T15:17:20.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\Desktop\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 IFortex\\TestTask\\TestTask\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "TestTask\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\\u042E\u0440\u0438\u0439\\Desktop\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 IFortex\\TestTask\\TestTask\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "TestTask\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T15:12:35.701Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -62,22 +28,22 @@
               "RelativeDocumentMoniker": "TestTask\\Services\\Implementations\\UserService.cs",
               "ToolTip": "C:\\Users\\\u042E\u0440\u0438\u0439\\Desktop\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 IFortex\\TestTask\\TestTask\\Services\\Implementations\\UserService.cs",
               "RelativeToolTip": "TestTask\\Services\\Implementations\\UserService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBQAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T13:09:53.357Z",
+              "WhenOpened": "2024-11-14T20:18:31.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\Desktop\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 IFortex\\TestTask\\TestTask\\Services\\Implementations\\OrderService.cs",
-              "RelativeDocumentMoniker": "TestTask\\Services\\Implementations\\OrderService.cs",
-              "ToolTip": "C:\\Users\\\u042E\u0440\u0438\u0439\\Desktop\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 IFortex\\TestTask\\TestTask\\Services\\Implementations\\OrderService.cs",
-              "RelativeToolTip": "TestTask\\Services\\Implementations\\OrderService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\Desktop\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 IFortex\\TestTask\\TestTask\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TestTask\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\\u042E\u0440\u0438\u0439\\Desktop\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 IFortex\\TestTask\\TestTask\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TestTask\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T12:50:37.705Z",
+              "WhenOpened": "2024-11-14T20:16:54.33Z",
               "EditorCaption": ""
             }
           ]
